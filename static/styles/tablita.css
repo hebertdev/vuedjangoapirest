@@ -1,0 +1,12 @@
+th{
+	border:1px solid rgba(0,0,0,0.2);
+	padding: 5px;
+}
+td{
+	border:1px solid rgba(0,0,0,0.2);
+	padding: 5px;
+}
+
+button{
+	margin: 0 3px;
+}
